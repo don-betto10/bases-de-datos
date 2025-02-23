@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "67bba779eb7a5b0e950dc057"
+  },
+  "nombre": "Stous",
+  "detalle": "Cerveza dorada"
+},
+{
+  "_id": {
+    "$oid": "67bba779eb7a5b0e950dc058"
+  },
+  "nombre": "Porters",
+  "detalle": "Cerveza dorada"
+},
+{
+  "_id": {
+    "$oid": "67bba779eb7a5b0e950dc059"
+  },
+  "nombre": "Belgians",
+  "detalle": "Cerveza dorada"
+},
+{
+  "_id": {
+    "$oid": "67bba779eb7a5b0e950dc05a"
+  },
+  "nombre": "Sours",
+  "detalle": "Cerveza dorada"
+},
+{
+  "_id": {
+    "$oid": "67bba779eb7a5b0e950dc05b"
+  },
+  "nombre": "Pale",
+  "detalle": "Cerveza dorada"
+}]

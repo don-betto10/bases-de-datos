@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "67bba6bfeb7a5b0e950dc04f"
+  },
+  "nombre": "Dark",
+  "detalle": "Cerveza oscura"
+},
+{
+  "_id": {
+    "$oid": "67bba6bfeb7a5b0e950dc050"
+  },
+  "nombre": "Pale",
+  "detalle": "Cerveza oscura"
+},
+{
+  "_id": {
+    "$oid": "67bba6bfeb7a5b0e950dc051"
+  },
+  "nombre": "Bocks",
+  "detalle": "Cerveza oscura"
+}]

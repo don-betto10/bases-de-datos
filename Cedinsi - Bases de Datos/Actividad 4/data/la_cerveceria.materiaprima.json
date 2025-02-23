@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67bba4aceb7a5b0e950dc03f"
+  },
+  "nombre": "lupulo",
+  "cantidad": "500 gr"
+},
+{
+  "_id": {
+    "$oid": "67bba4aceb7a5b0e950dc040"
+  },
+  "nombre": "malta",
+  "cantidad": "500 gr"
+},
+{
+  "_id": {
+    "$oid": "67bba4aceb7a5b0e950dc041"
+  },
+  "nombre": "levadura",
+  "cantidad": "500 gr"
+},
+{
+  "_id": {
+    "$oid": "67bba4aceb7a5b0e950dc042"
+  },
+  "nombre": "agua",
+  "cantidad": "500 lts"
+}]
